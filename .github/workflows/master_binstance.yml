@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Binstance'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D725D42F4C94188AEAC3B854BA668E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF5F9545EA264F91A92183A56B64299F }}
           package: .
